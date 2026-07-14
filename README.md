@@ -55,8 +55,6 @@ Web Developer | DevOps Learner | AWS Enthusiast
 ![](https://komarev.com/ghpvc/?username=barathchinnu&color=blue)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Barath;Web+Developer;DevOps+Learner;AWS+Cloud+Enthusiast)](https://git.io/typing-svg)
-
 ![](https://github-profile-trophy.vercel.app/?username=barathchinnu&theme=onedark)
 
 
