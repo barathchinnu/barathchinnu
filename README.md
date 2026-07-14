@@ -9,17 +9,17 @@
 🌐 Socials:
 <p>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="www.linkedin.com/in/barath-magendiran-93108930a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/YOUR_LEETCODE/" target="_blank">
+  <a href="https://leetcode.com/u/barath_24csr036/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="http://missionbarath.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
