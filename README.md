@@ -3,7 +3,7 @@
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Heyy+I+am+Barath+Magendiran;I+am+a+Software+Engineer;I+am+a+DevOps+Engineer" 
     alt="Typing Animation" 
   />
-  <img src ="https://plus.unsplash.com/premium_photo-1714618835760-5b2175ad3249?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFubmVyJTIwaW1hZ2VzJTIwZm9yJTIwdGhlJTIwaGFja2Vyc3xlbnwwfHwwfHx8MA%3D%3D"/>
+  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTloCgvvckX4pZsgx1I6rFtI26RAO8n2edrnIaVtp2PIQ&s=10"/>
 </h1>
 
 
