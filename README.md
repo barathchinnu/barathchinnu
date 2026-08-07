@@ -45,24 +45,26 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRiZHpua21wZnIwMzRndGs4YzJ2dWd1eHUwNnpja2Y0dG1xcWZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codebyniranjann&label=Profile%20views&color=0e75b6&style=flat" alt="codebyniranjann" />
+  <img src="https://komarev.com/ghpvc/?username=codebybarath&label=Profile%20views&color=0e75b6&style=flat" alt="codebybarath" />
 </p>
 
-- 🚀 Building Solutions **Building projects that solve real-world problems**
+- 👨‍💻 About Me **Computer Science & Engineering student passionate about software development and building real-world applications**
 
-- 💡 Problem Solving **Turning ideas into practical and impactful solutions**
+- 🚀 Full-Stack Development **Building modern web applications using React, Node.js, Java, Spring Boot, and databases**
 
-- 🌱 Learning & Growing **Exploring new technologies and improving my skills**
+- ☁️ Cloud & DevOps **Exploring AWS, cloud deployment, CI/CD, and DevOps practices**
 
-- 🔍 Currently Exploring **Experimenting with modern tools, frameworks, and best practices**
+- 🤖 AI & Machine Learning **Working with computer vision and machine learning to build intelligent solutions**
 
-- 🛠️ Creating & Innovating **Building applications that make a difference**
+- 🧠 Problem Solving **Improving my DSA and programming skills by solving problems and developing efficient solutions**
 
-- 📫 How to reach me **amuthanabishekniranjan@gmail.com**
+- 🛠️ Project Builder **Creating practical projects that combine technology, creativity, and real-world impact**
 
-- 🤝 Open to Collaboration **Working with others to create meaningful projects**
+- 🌱 Currently Learning **Deepening my knowledge of Java, Full-Stack Development, AWS, DevOps, and emerging technologies**
 
-<h3 align="left">Connect with me:</h3>
+- 🤝 Open to Collaboration **Interested in hackathons, innovative projects, open-source contributions, and collaborating with other developers**
+
+- 📫 How to Reach Me **barathchinnu5@gmail.com**
 
 ## ✍️ Random Dev Quote
 <p align="center">
