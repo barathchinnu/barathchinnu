@@ -49,21 +49,21 @@
   <img src="https://komarev.com/ghpvc/?username=codebybarath&label=Profile%20views&color=0e75b6&style=flat" alt="codebybarath" />
 </p>
 
-- 👨‍💻 About Me **Computer Science & Engineering student passionate about software development and building real-world applications**
+- 👨‍💻 **Software Developer** — Computer Science & Engineering student focused on building practical and scalable applications
 
-- 🚀 Full-Stack Development **Building modern web applications using React, Node.js, Java, Spring Boot, and databases**
+- 💻 **Full-Stack Developer** — Working with React, Node.js, Java, Spring Boot, and SQL/NoSQL databases
 
-- ☁️ Cloud & DevOps **Exploring AWS, cloud deployment, CI/CD, and DevOps practices**
+- ☁️ **Cloud & DevOps Enthusiast** — Exploring AWS, cloud deployment, CI/CD, and modern DevOps practices
 
-- 🤖 AI & Machine Learning **Working with computer vision and machine learning to build intelligent solutions**
+- 🤖 **AI/ML Explorer** — Building intelligent solutions with computer vision and machine learning
 
-- 🧠 Problem Solving **Improving my DSA and programming skills by solving problems and developing efficient solutions**
+- 🧠 **Problem Solver** — Strengthening DSA, programming, and software engineering fundamentals
 
-- 🛠️ Project Builder **Creating practical projects that combine technology, creativity, and real-world impact**
+- 🚀 **Project Builder** — Turning ideas into functional applications that solve real-world problems
 
-- 🌱 Currently Learning **Deepening my knowledge of Java, Full-Stack Development, AWS, DevOps, and emerging technologies**
+- 🌱 **Always Learning** — Continuously exploring new technologies, frameworks, and development practices
 
-- 🤝 Open to Collaboration **Interested in hackathons, innovative projects, open-source contributions, and collaborating with other developers**
+- 🤝 **Open to Collaboration** — Hackathons, open-source projects, and innovative software solutions
 
 - 📫 How to Reach Me **barathchinnu5@gmail.com**
 
