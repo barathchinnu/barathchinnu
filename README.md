@@ -42,23 +42,27 @@
 </p>
 <br>
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Barath&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=0D1117&cache_seconds=1800" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Barath&theme=tokyonight&background=0D1117&border=0D1117" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barath&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=0D1117&langs_count=8&cache_seconds=1800" />
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRiZHpua21wZnIwMzRndGs4YzJ2dWd1eHUwNnpja2Y0dG1xcWZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=codebyniranjann&label=Profile%20views&color=0e75b6&style=flat" alt="codebyniranjann" />
 </p>
 
-<br>
+- 🚀 Building Solutions **Building projects that solve real-world problems**
 
-## 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barath&theme=tokyonight" />
-</p>
+- 💡 Problem Solving **Turning ideas into practical and impactful solutions**
 
-<br>
+- 🌱 Learning & Growing **Exploring new technologies and improving my skills**
+
+- 🔍 Currently Exploring **Experimenting with modern tools, frameworks, and best practices**
+
+- 🛠️ Creating & Innovating **Building applications that make a difference**
+
+- 📫 How to reach me **amuthanabishekniranjan@gmail.com**
+
+- 🤝 Open to Collaboration **Working with others to create meaningful projects**
+
+<h3 align="left">Connect with me:</h3>
 
 ## ✍️ Random Dev Quote
 <p align="center">
